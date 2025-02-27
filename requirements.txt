@@ -1,0 +1,6 @@
+prefect-dbt==0.4.1
+dbt-sqlserver==1.8.7
+prefect==2.14.18
+pandas==1.5.3
+SQLAlchemy~=1.4.41
+prefect-sqlalchemy==0.4.0
